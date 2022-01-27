@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Golang-REST/handlers"
+	"app/handlers"
 	"github.com/gorilla/mux"
 	"log"
 	"net/http"
